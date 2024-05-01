@@ -118,7 +118,8 @@ Note that in this step, we are just using few folders (images) from the entire d
 3. Getting 84% accuracy for 20 epochs 
 
  
-
+Link to the ppt:
+https://docs.google.com/presentation/d/1iqUsufP6gJriUAs1y8T4kWoB5aTtDXr6/edit?usp=sharing&ouid=103005344138102756072&rtpof=true&sd=true
 
 5.Contact:
 
